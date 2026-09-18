@@ -2,5 +2,7 @@
   "name": "VÉRTICE Studio",
   "description": "Moda feminina moderna e minimalista de verão para mulheres independentes. Roupas frescas em linho puro europeu, cupro sedoso e alfaiataria tropical com transparência radical de preço e alto custo-benefício.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
